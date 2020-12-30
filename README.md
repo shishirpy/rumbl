@@ -1,5 +1,7 @@
 # Rumbl
 
+Code from the [Programming Phoneix book](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
